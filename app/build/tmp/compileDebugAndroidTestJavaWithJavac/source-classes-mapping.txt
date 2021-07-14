@@ -1,0 +1,5 @@
+com/example/android/scorekeeper/test/BuildConfig.java
+ com.example.android.scorekeeper.test.BuildConfig
+com/example/android/scorekeeper/ScorePlusMinusTest.java
+ com.example.android.scorekeeper.ScorePlusMinusTest
+ com.example.android.scorekeeper.ScorePlusMinusTest$1
